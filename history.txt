@@ -1,0 +1,159 @@
+    1  ssh -T git№github.com
+    2  git config --global "YuliiaGreta"
+    3  git config --global user.email "jyg_clemens@web.de"
+    4  user.name=YuliiaGreta
+    5  git config --global user.name "YuliiaGreta"
+    6  git config --global user.name "jyg_clemens@web.de"
+    7  git config --global -l
+    8  history
+    9  cd C:\Users\jyg_c\Documents
+   10  [200~cd C:/Users/jyg_c/Documents
+   11  ~cd C:/Users/jyg_c/Documents
+   12  cd /c/Users/jyg_c/Documents
+   13  [200~mkdir git_intro
+   14  cd git_intro~cp /c/Users/jyg_c/Pictures/photo.jpg .
+   15  git init
+   16  git add photo.jpg
+   17  git commit -m "Added photo"
+   18  git branch -M main
+   19  git remote add origin git@github.com:jyg_clemens/git_intro.git
+   20  git push -u origin main
+   21  git pull origin main --rebase
+   22  git push -u origin main
+   23  [200~git config --global user.name "YuliiaGreta"
+   24  git config --global user.email "jyg_clemens@web.de"
+   25  git config --global -l
+   26  git clone https://github.com/YuliiaGreta/git_intro.git
+   27  cd git_intro
+   28  echo "# Это мой первый репозиторий на GitHub!" > README.md
+   29  git commit -m "Добавил README.md"
+   30  git push origin master
+   31  git status
+   32  git log
+   33  [200~mkdir git_intro
+   34  cd git_intro
+   35  ~git init
+   36  cd %USERPROFILE%\Documents
+   37  mkdir git_intro
+   38  cd git_intro
+   39  git init
+   40  git add photo.jpg
+   41  [200~git add photo.jpg
+   42  cd ~/Documents/git_intro
+   43  git init
+   44  ls
+   45  [200~git add photo.jpg
+   46  ~git commit -m "Added photo"
+   47  git add photo.jpg
+   48  [200~pwd
+   49  ~pwd
+   50  ls
+   51  git add photo.jpg.png
+   52  cd ~/Documents/git_intro
+   53  git add photo.jpg.png
+   54  git commit -m "Добавлен файл photo.jpg.png"
+   55  git push origin main
+   56  git fetch origin
+   57  git merge origin/main
+   58  git push origin main
+   59  git branch
+   60  git checkout -b main
+   61  git push origin main
+   62  git push origin master
+   63  git checkout main
+   64  git push origin main
+   65  git add photo.jpg
+   66  git remote add origin https://github.com/YuliiaGreta/git_intro.git
+   67  git push -u origin main
+   68  cd C:\Users\jyg_c\Documents\git_intro
+   69  git add image.jpg
+   70  cd C:\Users\jyg_c\git_intro\git_intro
+   71  [200~$ bash: cd: C:Usersjyg_cgit_introgit_intro: No such file or directory
+   72  ~cd "C:\Users\jyg_c\git_intro\git_intro"
+   73  cd "C:\Users\jyg_c\git_intro\git_intro"
+   74  git add photo.jpg
+   75  ls
+   76  git add photo.jpg.png
+   77  git commit -m "Added photo"
+   78  git push origin main
+   79  git push -u origin main
+   80  git branch
+   81  git push -u origin master
+   82  git push -u origin master
+   83  git remote add origin https://github.com/YuliiaGreta/git_intro.git
+   84  git push -u origin master
+   85  ssh itch
+   86  ssh ec2-user@linux.itcareerhub.de
+   87  nano
+   88  find /var/log -type f -name "*error*"
+   89  cat /etc/os-release
+   90  nano ~/permission_checker.sh
+   91  ls
+   92  pwd
+   93  ./permission_checker.sh
+   94  ./permission_checker.sh >> output.txt
+   95  ls -l
+   96  ./permission_checker.sh > результат.txt
+   97  mkdir /opt/220424-ptm
+   98  ls /opt
+   99  cd /home/jyg_c
+  100  ./permission_checker.sh > /c/Users/jyg_c/результат.txt
+  101  mkdir /c/Users/jyg_c/my_results
+  102  ./permission_checker.sh > /c/Users/jyg_c/my_results/результат.txt
+  103  mkdir /c/Users/jyg_c/my_results
+  104  ./permission_checker.sh > /c/Users/jyg_c/my_results/результат.txt
+  105  touch /c/Users/jyg_c/my_results/результат.txt
+  106  ./permission_checker.sh > /c/Users/jyg_c/my_results/результат.txt
+  107  su - 220424-ptm
+  108  sudo su - 220424-ptm
+  109  cd /opt/220424-ptm/YuliiaH
+  110  cat permission_checker.sh > permission_checker.txt
+  111  cat permission_checker.sh
+  112  cd
+  113  chmod +x permission_checker.sh
+  114  ./permission_checker.sh > /c/Users/jyg_c/OneDrive/Desktop/Linux/результат.txt
+  115  nano permission_checker.sh
+  116  chmod +x permission_checker.sh
+  117  ./permission_checker.sh > /c/Users/jyg_c/OneDrive/Desktop/Linux/результат.txt
+  118  nano
+  119  chmod +x permission_checker.sh
+  120  ./permission_checker.sh
+  121  sudo mkdir -p /opt/220424-ptm
+  122  mkdir -p /opt/220424-ptm
+  123  sudo mkdir -p /opt/220424-ptm
+  124  mkdir -p ~/220424-ptm
+  125  mv ~/Downloads/permission_checker.sh ~/220424-ptm/
+  126  cd ~/220424-ptm
+  127  chmod +x permission_checker.sh
+  128  ls
+  129  ls
+  130  find / -name permission_checker.sh 2>/dev/null
+  131  ssh ec2-user@linux.itcareerhub.de
+  132  ssh ec2-user@linux.itcareerhub.de
+  133  ssh ec2-user@linux.itcareerhub.de
+  134  nano song.txt
+  135  git restore --staged <file>
+  136  git restore --staged <song.txt>
+  137  git add
+  138  gid commit
+  139  git clone https://github.com/YuliiaGreta/Myproject.git
+  140  cd Myproject
+  141  git checkout -b feature
+  142  # My Project
+  143  This is a new feature.
+  144  echo "# My Project\nThis is a new feature." >> README.md
+  145  echo "*.log" >> .gitignore
+  146  git add README.md .gitignore
+  147  echo "* text=auto" > .gitattributes
+  148  git add .gitattributes
+  149  git commit -m "Add .gitattributes for line ending normalization"
+  150  echo "# My Project\nThis is a new feature." >> README.md
+  151  echo "*.log" >> .gitignore
+  152  git add README.md .gitignore
+  153  git commit -m "Add changes to README.md and .gitignore"
+  154  git push -u origin feature
+  155  git commit --amend -m "Add changes to README.md and .gitignore - amend"
+  156  git push -f origin feature
+  157  git checkout main
+  158  git merge feature
+  159  history > history.txt
